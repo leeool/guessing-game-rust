@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "editorRuler.foreground": "#ff408155",
+    "editor.selectionBackground": "#afafaf71",
+    "editor.selectionHighlightBackground": "#6d6d6d4d",
+    "editor.selectionHighlightBorder": "#ebebebde",
+    "statusBar.background": "#252525",
+    "editor.lineHighlightBackground": "#00000055",
+    "activityBar.background": "#312B36",
+    "titleBar.activeBackground": "#453D4C",
+    "titleBar.activeForeground": "#FBFAFB"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".vscode": true
+  },
+  "explorerExclude.backup": {}
+}
